@@ -1,4 +1,4 @@
-#Credit Score Classification with Machine Learning#
+Credit-Score-Classification-With-Machine-Learning
 
 Welcome to my Credit Score Classification with Machine Learning project! In this project, I demonstrate my expertise in building and evaluating machine learning models to predict an individual's credit score with high accuracy based on their financial history and personal information.
 Project Overview
@@ -28,7 +28,7 @@ Usage
 
     bash
 
-git clone https://github.com/your-username/credit-score-classification.git
+git clone https://github.com/natalia-dias01/credit-score-classification.git
 cd credit-score-classification
 
 Install the required dependencies:
@@ -41,6 +41,6 @@ Open and run the Jupyter Notebook:
 
 bash
 
-    jupyter notebook Credit_Score_Classification.ipynb
+    jupyter notebook credit_score_classification.ipynb
 
 Feel free to reach out if you have any questions or comments! Thank you for your interest in this project.
