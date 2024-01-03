@@ -1,4 +1,5 @@
-Credit-Score-Classification-With-Machine-Learning
+### **Credit-Score-Classification-With-Machine-Learning**
+
 
 Welcome to my Credit Score Classification with Machine Learning project! In this project, I demonstrate my expertise in building and evaluating machine learning models to predict an individual's credit score with high accuracy based on their financial history and personal information.
 Project Overview
